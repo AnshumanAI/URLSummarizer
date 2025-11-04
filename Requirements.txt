@@ -6,3 +6,4 @@ networkx
 numpy
 flask
 gunicorn
+scipy
