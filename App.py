@@ -100,5 +100,5 @@ def home():
     return render_template_string(TEMPLATE, summary=summary)
 
 
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)￼Enter
+#if __name__ == "__main__":
+#   app.run(host="0.0.0.0", port=5000)Enter
